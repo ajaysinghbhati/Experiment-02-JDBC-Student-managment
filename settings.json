@@ -1,9 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "."
-    ],
-    "java.project.referencedLibraries": [
-        "lib\\mysql-connector-j-26.7.0.jar",
-        "c:\\Users\\Ajay\\OneDrive\\Documents\\Advanced Java Lab\\studentRegistration\\lib\\mysql-connector-j-26.7.0.jar"
-    ]
-}
